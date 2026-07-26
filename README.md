@@ -2,10 +2,10 @@
 # 1)Before page
 
 
-<img width="456" height="959" alt="Before" src="https://github.com/user-attachments/assets/bd8b7c5b-e03a-48dd-8064-929c87ec6d78" />
+https://www.figma.com/proto/4q9BOoectJUZPmK1SZRZ8Y/Login-Page?node-id=4-13&t=gIYiHvc8x6Ilxoq9-1
 
 
 # 2) After page
 
 
-<img width="461" height="956" alt="After" src="https://github.com/user-attachments/assets/09650341-c74b-49ed-bbc8-2acddffeae09" />
+https://www.figma.com/proto/4q9BOoectJUZPmK1SZRZ8Y/Login-Page?node-id=2-3&t=gIYiHvc8x6Ilxoq9-1
